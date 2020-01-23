@@ -348,3 +348,36 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+
+<html href="">
+<head>    
+
+    <title>Site top</title>
+</head>
+<body>
+<div id="geral">
+    <div id="topo"></div>
+    <div id="geral"></div>
+    <div id="conteudo">
+        <p></p>
+        <div id="box">
+            <div id="boxa"></div>
+            <div id="boxb"></div>
+            <div id="boxc"></div>
+
+        </div>
+    </div>    
+
+</div>
+<h1 color="#FFFFFF">"Sua melhor experiencia em plataforma de conteudos"</h1 color="#FFFFFF">
+<div></div>
+
+
+
+</body>
+
+
+
+</html>
